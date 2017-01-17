@@ -130,13 +130,12 @@ func liveSession(session: LFLiveSession?, liveStateDidChange state: LFLiveState)
 ```
 
 ## Release History
-    * 2.0.0
-        * CHANGE: modify bugs,support ios7 live.
-    * 2.2.4.3
-        * CHANGE: modify bugs,support swift import.
     * 2.5 
         * CHANGE: modify bugs,support bitcode.
-
+    * 2.2.4.3
+        * CHANGE: modify bugs,support swift import.
+    * 2.0.0
+        * CHANGE: modify bugs,support ios7 live.
 
 ## License
  **LFLiveKit is released under the MIT license. See LICENSE for details.**
